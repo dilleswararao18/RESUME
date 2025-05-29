@@ -5,14 +5,13 @@ Badda Dilleswara Rao
 ---
 
 ## Summary
-Passionate software developer with 5+ years of experience in building scalable web applications. Proficient in JavaScript, React, and Node.js. Seeking opportunities to leverage my skills in a challenging environment.
+A motivated student with a strong passion for technology and problem-solving. My expertise lies in with hands-on experience in Java and Python.
 
 ---
 
 ## Skills
-- **Programming Languages**: JavaScript, Python, Java, C++
-- **Web Technologies**: HTML, CSS, React, Node.js, Express
-- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Programming Languages**: Python, Java
+- **Web Technologies**: HTML, CSS
 - **Tools & Platforms**: Git
 - **Soft Skills**: Team collaboration, Problem-solving, Communication
 
